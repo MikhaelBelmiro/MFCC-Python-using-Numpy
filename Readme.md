@@ -33,7 +33,7 @@ Below are the explanation of the response.
 <ul>
     <li> mfcc_features: The MFCC features that are extracted using the algorithm
     <li> total_time: Time needed to compute the MFCC features
-</ul> <br>
+</ul>
 
 <h2> 2. Requesting via a Script </h2> <hr> </hr>
 Simply make a <b> POST </b> request to <a href="http://localhost:7071/api/mfcc"> http://localhost:7071/api/mfcc </a> with the following parameters:
