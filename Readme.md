@@ -2,7 +2,7 @@
 To run this repo, simply run the following command.
 
 ```
-git clone 
+git clone https://github.com/MikhaelBelmiro/MFCC-Python-using-Numpy.git
 docker-compose up --build
 ```
 Then, the demo API is accessible via <a href="http://localhost:7071">http://localhost:7071</a>.

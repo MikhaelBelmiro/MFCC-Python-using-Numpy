@@ -1,3 +1,4 @@
 *.pdf
 *.wav
 temp.py
+__pycache__/
